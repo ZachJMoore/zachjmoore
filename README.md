@@ -2,6 +2,8 @@
 
 https://zachjmoore.com
 
+https://www.instagram.com/zach.jmoore
+
 <!--
 **ZachJMoore/zachjmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
