@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Zach Moore!
+### Hey,  I'm Zach Moore!
 
 https://zachjmoore.com
 
