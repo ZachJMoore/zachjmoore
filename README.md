@@ -1,4 +1,4 @@
-### Hey, I'm Zach Moore! A full-stack JavaScript, ceramic artist, and creator!
+### Hey, I'm Zach Moore! A full-stack JavaScript, ceramic artist, entrepreneur, and creator!
 
 https://zachjmoore.com
 
