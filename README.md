@@ -1,4 +1,4 @@
-### Hey, I'm Zach Moore! A full-stack JavaScript, ceramic artist, entrepreneur, and creator!
+### Hey, I'm Zach Moore! A full-stack JavaScript developer, ceramic artist, entrepreneur, and creator/tinkerer of many things (hydroponics, 3D printing, concrete molds, hardware & electronics, etc. You name it!)!
 
 https://zachjmoore.com
 
