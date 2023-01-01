@@ -1,4 +1,4 @@
-### Hey, I'm Zach Moore - A software engineer who dabbles a bit in everything!
+### Hey, I'm Zach Moore - A software developer who dabbles a bit in everything!
 
 **Notable Software Projects (past and present)**
 
@@ -14,9 +14,9 @@
 
 [Twitter](https://twitter.com/iamzachjmoore)
 
-[Instagram](https://www.instagram.com/zach.jmoore)
+[Instagram](https://www.instagram.com/iamzachjmoore)
 
-[Dribble](https://dribbble.com/zachjmoore)
+[Dribbble](https://dribbble.com/iamzachjmoore)
 
 **Other**
 
