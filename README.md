@@ -1,8 +1,6 @@
 ### Hey, I'm Zach Moore! A full-stack JavaScript developer, ceramic artist, 3D designer, and more. I'm constantly making and trying new things!
 
-#### Check out my stuff around the web:
-
-Notable Projects (past and present):
+**Notable Projects (past and present):**
 
 [MarkUp](https://github.com/ZachJMoore/markup-updates)
 
@@ -12,7 +10,7 @@ Notable Projects (past and present):
 
 [SmartKiln](https://smartkiln.net/)
 
-Social:
+**Social:**
 
 https://twitter.com/iamzachjmoore
 
@@ -20,7 +18,7 @@ https://www.instagram.com/zach.jmoore
 
 https://dribbble.com/zachjmoore
 
-Other:
+**Other:**
 
 [Ceramics](https://photos.app.goo.gl/4Ec2BH4bYmi57Qj98)
 
