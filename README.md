@@ -2,11 +2,25 @@
 
 #### Check out my stuff around the web:
 
-https://zachjmoore.com
+Notable Projects (past and present):
+
+[MarkUp](https://github.com/ZachJMoore/markup-updates)
+
+[Public](https://public.milkjug.io/)
+
+[Milkjug Tags](https://tags.milkjug.io/)
+
+[SmartKiln](https://smartkiln.net/)
+
+Social:
+
+https://twitter.com/iamzachjmoore
 
 https://www.instagram.com/zach.jmoore
 
 https://dribbble.com/zachjmoore
+
+Other:
 
 [Ceramics](https://photos.app.goo.gl/4Ec2BH4bYmi57Qj98)
 
