@@ -20,7 +20,7 @@
 
 **Other**
 
-[Ceramics](https://photos.app.goo.gl/4Ec2BH4bYmi57Qj98)
+[Ceramics](https://photos.app.goo.gl/QYJADQk4RPkzaDPW9)
 
 <!--
 **ZachJMoore/zachjmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
