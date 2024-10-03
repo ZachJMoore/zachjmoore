@@ -1,6 +1,8 @@
 ### Hey, I'm Zach Moore - A software developer who dabbles a bit in everything!
 
-**Notable Software Projects (past and present)**
+**Side Projects**
+
+[DynamicNotch](https://dynamic-notch.iamzachmoore.com)
 
 [MarkUp](https://github.com/ZachJMoore/markup-updates)
 
