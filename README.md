@@ -14,6 +14,8 @@
 
 **Social**
 
+[LinkedIn](https://www.linkedin/in/zjmoore)
+
 [Twitter](https://twitter.com/iamzachjmoore)
 
 [Instagram](https://www.instagram.com/iamzachjmoore)
