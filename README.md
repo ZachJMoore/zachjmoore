@@ -1,4 +1,4 @@
-### Hey, I'm Zach Moore - A software developer who dabbles a bit in everything!
+### Hey, I'm Zach Moore - A full stack software engineer!
 
 **Side Projects**
 
@@ -15,12 +15,6 @@
 **Social**
 
 [LinkedIn](https://www.linkedin.com/in/zjmoore/)
-
-[Twitter](https://twitter.com/iamzachjmoore)
-
-[Instagram](https://www.instagram.com/iamzachjmoore)
-
-[Dribbble](https://dribbble.com/iamzachjmoore)
 
 **Other**
 
